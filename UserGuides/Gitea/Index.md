@@ -24,7 +24,7 @@
 ---
 
 ## 📑 Содержание Раздела
-- [Работа с доской **Technical support**](./TaskManager.md)
+- [Работа с доской **Technical support**](./TaskManagerTechnicalSupport.md)
 
 ---
 
