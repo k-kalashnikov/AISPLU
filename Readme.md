@@ -26,11 +26,6 @@ EMH.Documentation/
 │   ├── database-schema.md
 │   └── api-design.md
 │
-├── 📁 Business/               # Бизнес-требования и спецификации
-│   ├── requirements/
-│   ├── user-stories/
-│   └── glossary.md
-│
 ├── 📁 Development/            # Руководства для разработчиков
 │   ├── setup-guide.md
 │   ├── coding-standards.md
