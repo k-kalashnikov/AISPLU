@@ -21,44 +21,10 @@
 
 ```text
 EMH.Documentation/
-├── 📁 Architecture/           # Архитектурные решения и диаграммы
-│   ├── system-overview.md
-│   ├── database-schema.md
-│   └── api-design.md
-│
-├── 📁 Development/            # Руководства для разработчиков
-│   ├── setup-guide.md
-│   ├── coding-standards.md
-│   ├── git-workflow.md
-│   └── code-review-checklist.md
-│
-├── 📁 Deployment/             # Инструкции по развертыванию
-│   ├── local-setup.md
-│   ├── docker-deployment.md
-│   ├── ci-cd-pipeline.md
-│   └── environment-config.md
-│
-├── 📁 Operations/             # Эксплуатация и мониторинг
-│   ├── monitoring.md
-│   ├── backup-recovery.md
-│   ├── troubleshooting.md
-│   └── incident-response.md
-│
 ├── 📁 UserGuides/             # Руководства для пользователей
-│   ├── employee-portal/
-│   ├── admin-panel/
-│   └── faq.md
-│
-├── 📁 Meetings/               # Протоколы встреч и решения
-│   ├── 2026/
-│   │   ├── 01-january/
-│   │   └── 02-february/
-│   └── decisions/
-│
-├── 📁 Templates/              # Шаблоны документов
-│   ├── meeting-template.md
-│   ├── adr-template.md
-│   └── bug-report-template.md
+│   ├── Gitea/
+    |──── Index.md
+|   |── Index.md
 │
 └── 📄 README.md               # Этот файл
 ```
